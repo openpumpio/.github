@@ -16,14 +16,6 @@
 
 ---
 
-## OpenClaw Agent
-
-Autonomous Solana trading agent that listens for X/Twitter mentions and executes trades on your behalf. Buys, sells, token launches, balance checks — all from a tweet.
-
-**[`openpumpio/openclaw-agent`](https://github.com/openpumpio/openclaw-agent)** — clone it, configure your keys, deploy.
-
----
-
 ## Packages
 
 | Package | Description | Install |
@@ -59,6 +51,10 @@ Get your API key at [openpump.io](https://openpump.io).
 - **Manage wallets** with HD-derived key pairs
 - **Track positions** across all your tokens
 - **Automate trading** via X/Twitter mentions
+
+## OpenClaw Agent
+
+Want a ready-made trading bot? **[OpenClaw](https://github.com/openpumpio/openclaw-agent)** is an autonomous Solana trading agent that listens for X/Twitter mentions and executes trades on your behalf — buys, sells, token launches, balance checks, all from a tweet. Clone it, configure your keys, deploy.
 
 ## Links
 
