@@ -16,6 +16,14 @@
 
 ---
 
+## 🦀 OpenClaw Agent
+
+Autonomous Solana trading agent that executes trades via X/Twitter mentions. Built on the OpenPump API.
+
+👉 **[openpumpio/openclaw-agent](https://github.com/openpumpio/openclaw-agent)**
+
+---
+
 ## Packages
 
 | Package | Description | Install |
