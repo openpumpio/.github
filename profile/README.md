@@ -50,11 +50,13 @@ Get your API key at [openpump.io](https://openpump.io).
 - **Snipe curves** with configurable slippage
 - **Manage wallets** with HD-derived key pairs
 - **Track positions** across all your tokens
-- **Automate trading** via X/Twitter mentions
+- **Automate trading** via natural language commands
 
 ## OpenClaw Agent
 
-Want a ready-made trading bot? **[OpenClaw](https://github.com/openpumpio/openclaw-agent)** is an autonomous Solana trading agent that listens for X/Twitter mentions and executes trades on your behalf — buys, sells, token launches, balance checks, all from a tweet. Clone it, configure your keys, deploy.
+Autonomous Solana trading agent powered by the OpenPump API. Understands natural language commands, executes trades, launches tokens, and manages your portfolio — deploy your own or use ours.
+
+**[`openpumpio/openclaw-agent`](https://github.com/openpumpio/openclaw-agent)**
 
 ## Links
 
