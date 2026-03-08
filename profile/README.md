@@ -16,14 +16,6 @@
 
 ---
 
-## 🦀 OpenClaw Agent
-
-Autonomous Solana trading agent that executes trades via X/Twitter mentions. Built on the OpenPump API.
-
-👉 **[openpumpio/openclaw-agent](https://github.com/openpumpio/openclaw-agent)**
-
----
-
 ## Packages
 
 | Package | Description | Install |
@@ -32,6 +24,7 @@ Autonomous Solana trading agent that executes trades via X/Twitter mentions. Bui
 | [`@openpump/sdk`](https://www.npmjs.com/package/@openpump/sdk) | Type-safe TypeScript client for every API endpoint | `npm i @openpump/sdk` |
 | [`@openpump/solana-agent-kit`](https://www.npmjs.com/package/@openpump/solana-agent-kit) | Plug-in for Solana Agent Kit v2 | `npm i @openpump/solana-agent-kit` |
 | [`@openpump/eliza-plugin`](https://www.npmjs.com/package/@openpump/eliza-plugin) | ElizaOS plugin with actions, evaluators & providers | `npm i @openpump/eliza-plugin` |
+| [`openclaw-agent`](https://github.com/openpumpio/openclaw-agent) | Autonomous trading agent via X/Twitter mentions | [View repo →](https://github.com/openpumpio/openclaw-agent) |
 
 ## Quick Start
 
