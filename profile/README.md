@@ -54,7 +54,7 @@ Get your API key at [openpump.io](https://openpump.io).
 
 ## OpenClaw Agent
 
-Autonomous Solana trading agent powered by the OpenPump API. Understands natural language commands, executes trades, launches tokens, and manages your portfolio — deploy your own or use ours.
+Autonomous Solana trading agent powered by the OpenPump API. Uses Claude to parse trading commands and execute buys, sells, token launches, and balance checks.
 
 **[`openpumpio/openclaw-agent`](https://github.com/openpumpio/openclaw-agent)**
 
